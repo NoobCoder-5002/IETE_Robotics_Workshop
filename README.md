@@ -1,2 +1,3 @@
-# IETE_Robotics_Workshop
-Programs for IETE RObotics Workshop held on 21/09/2025 (Sunday)
+# IETE Robotics workshop
+
+Contains all the programs done on the IETE Robotics Workshop on Sunday 21/09/2025
