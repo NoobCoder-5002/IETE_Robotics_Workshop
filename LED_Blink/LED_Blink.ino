@@ -1,11 +1,12 @@
+#define LEDPIN 2
 
 void setup() {
-    pinMode(2, OUTPUT);
+  pinMode(LEDPIN, OUTPUT);
 }
 
 void loop() {
-    digitalWrite(2, 1);
-    delay(1000);
-    digitalWrite(2, 0);
-    delay(1000);
+  digitalWrite(LEDPIN, 1);
+  delay(1000);
+  digitalWrite(LEDPIN, 0);
+  delay(1000);
 }
